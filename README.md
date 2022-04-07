@@ -1,11 +1,4 @@
-### Termos e acordos
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do
-Manual da Pessoa Estudante da Trybe.
-
 # Boas vindas ao repositório do projeto Movie Cards Library!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
@@ -62,13 +55,6 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   - Utilizar **PropTypes** para checar que uma prop é um objeto de formato específico
   - Utilizar **PropTypes** para garantir que uma prop é um array com elementos de um determinado tipo
 
-# Entregáveis
-
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre
-[Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
-
 ---
 
 ## O que deverá ser desenvolvido
@@ -81,14 +67,9 @@ Você deverá desenvolver uma biblioteca de cartões de filmes utilizando React.
 
 Desenvolva uma aplicação **React** que seja composta por um `conjunto de componentes` React.
 
-## Data de Entrega
+# Instruções
 
-  - Será `1` dia de projeto.
-  - Data de entrega para avaliação final do projeto: `26/02/2021 - 14:00h`.
-
-# Instruções para entregar seu projeto
-
-## Antes de começar a desenvolver
+## Antes de começar
 
 1. Clone o repositório
   * `git clone https://github.com/tryber/sd-09-project-movie-cards-library.git`.
